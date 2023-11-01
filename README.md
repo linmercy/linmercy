@@ -18,6 +18,11 @@
   <img src="https://img.shields.io/badge/tailwind-css%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
 </p>
 
+<hr>
+
+<p align="center">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=linmercy&show_icons=true&locale=en&layout=compact" alt="linmercy" /></p>
+
 
 <hr>
 
@@ -31,3 +36,5 @@
 <hr>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+
+<hr>
